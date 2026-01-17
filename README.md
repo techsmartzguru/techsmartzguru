@@ -5,6 +5,12 @@ Welcome to the official GitHub organization of **Tech SmartzGuru**. We are a ful
 
 ---
 
+### 🛡️ Leadership
+**Founder & CEO:** **Guru Prasad**
+> Driven by a vision to provide world-class technology solutions and empower businesses through digital excellence.
+
+---
+
 ### 🌐 Our Core Services
 - **Custom Software Development** (Web, Mobile & Desktop)
 - **Full-Stack Web Architectures** (LAMP, MERN, MEAN stacks)
