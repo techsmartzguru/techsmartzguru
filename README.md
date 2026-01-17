@@ -5,9 +5,18 @@ Welcome to the official GitHub organization of **Tech SmartzGuru**. We are a ful
 
 ---
 
-### 🛡️ Leadership
-**Founder & CEO:** **Guru Prasad**
-> Driven by a vision to provide world-class technology solutions and empower businesses through digital excellence.
+🛡️ Leadership & Vision
+<table width="100%"> <tr> <td align="left" width="70%"> <h2 style="border-bottom: none;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="35" /> <span style="color: #4facfe;"><b>Guru Prasad</b></span> </h2> <sup><b>Founder & CEO | Solopreneur</b></sup>
+
+
+
+<i>"Empowering global businesses through digital transformation. As a <b>Solopreneur</b>, I combine strategic vision with hands-on technical expertise to deliver world-class IT solutions that turn complex challenges into scalable opportunities."</i> </td> <td align="center" width="30%"> <img src="https://img.shields.io/badge/Leadership-Visionary-6441a5?style=for-the-badge&logo=target" />
+
+
+<img src="https://img.shields.io/badge/Strategy-Expert-00b09b?style=for-the-badge&logo=graph" />
+
+
+<img src="https://img.shields.io/badge/Tech-Innovator-ff5f6d?style=for-the-badge&logo=cpu" /> </td> </tr> </table>
 
 ---
 
